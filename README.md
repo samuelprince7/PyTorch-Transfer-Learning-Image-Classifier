@@ -1,5 +1,5 @@
 # PyTorch-Transfer-Learning-Image-Classifier
-This is the final capstone project from the ‘AI Programming with Python’ Nanodegree certification issued by Udacity. In this final project, I built a software program that preforms Neural Network transfer learning with PyTorch. The project details are submitted in the README file.
+This is the final capstone project from the ‘AI Programming with Python’ Nanodegree certification issued by Udacity. In this final project, I built a software program that preforms Neural Network transfer learning with PyTorch. 
 Project Details:
 ● coded in Python & PyTorch to generate Data Transformations for data.
 ● preformed transfer learning using PyTorch's torchvision.models (vgg16 & densenet161) to generate & train a Neural Network on the Data Transformations. 
